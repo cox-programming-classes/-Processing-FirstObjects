@@ -1,4 +1,4 @@
-# -Processing-FirstObjects
+# FirstObjects
 Here's our first foray into Object Oriented Design.  The *Blob*  
   
 ## Blob
@@ -21,4 +21,6 @@ Create a Blob at the point **(x, y)** with Radius **r** and color **c**
 1) Read through the code, Run the code, observe what happens.
 2) Change the color of the Blob and alter its start position.
 3) Answer the following questions about the code:
-
+* What do the calculations in lines 25-28 do?
+* Where to the values of `dx` and `dy` go into the `blob` object?
+* How does this frame-by-frame calculation produce the motion effect that it does?
