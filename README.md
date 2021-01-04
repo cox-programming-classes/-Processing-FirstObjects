@@ -5,9 +5,9 @@ Here's our first foray into Object Oriented Design.  The *Blob*
 Represents a Circle that can change size and move around the screen.
 
 ### Properties / Attributes
-**x** and **y**:*float*  The Coordinates for the Center of the Blob.
-**radius**:*float*       The Radius of the Blob (circle)
-**col**:*color*          The Fill Color of the Blob
+**x** and **y** : *float*  The Coordinates for the Center of the Blob.
+**radius** : *float*       The Radius of the Blob (circle)
+**col** : *color*          The Fill Color of the Blob
 
 ### Constructor Method
 *Blob(float x, float y, float r, color c)*
