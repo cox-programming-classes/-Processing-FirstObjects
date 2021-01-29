@@ -8,7 +8,7 @@ void setup()
 {
   size(1280, 960); // set screen size to 1280p
   frameRate(120);
-  blob = new Blob(width/2, height/2, 25, color(200, 30, 220));
+  blob = new Blob(width/2, height/2, 30, color(200, 30, 220));
 }
 
 // the game loop, repeats indefinitely until the game ends.
